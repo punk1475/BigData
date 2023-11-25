@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib -child">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/DBSCAN/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/DBSCAN/lib" recursive="false" />
+  </library>
+</component>
